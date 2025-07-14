@@ -1,13 +1,5 @@
 
 
----
-[![](https://visitcount.itsvg.in/api?id=sachinle&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinle&show_icons=true&locale=en" alt="sachinle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinle&" alt="sachinle" /></p>
-
 
 <h1 align="center">Hi 👋, I'm Sachin Immanuel Leo S</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
