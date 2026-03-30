@@ -130,30 +130,6 @@ const sachin = {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=sachinle&theme=tokyonight&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=a0aec0" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sachinle&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                   CONTRIBUTION SNAKE                           -->
