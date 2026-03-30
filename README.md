@@ -37,7 +37,7 @@ const sachin = {
   name: "Sachin Immanuel Leo S",
   role: "Frontend Developer & UI Craftsman",
   location: "🇮🇳 Tamil Nadu, India",
-  currentProject: "MediCare Plus 🏥",
+  currentProject: "Leo Biling. 💸",
   learning: ["Full Stack Dev", "Vue.js", "Three.js"],
   passions: ["Pixel-Perfect UI", "Creative Design", "Open Source"],
   funFact: "Gets so caught up in pixel-perfect UI that forgets to blink 👁️",
