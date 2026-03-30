@@ -149,26 +149,6 @@ const sachin = {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--               FEATURED PROJECTS SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-<div align="center">
-
-<a href="https://github.com/sachinle/leo-billing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=leo-billing&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sachinle/Fin-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=Fin-Tracker&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" />
-</a>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                TOP CONTRIBUTED REPOSITORIES                    -->
