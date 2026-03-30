@@ -303,7 +303,7 @@ Other         █░░░░░░░░░░░░░░░░░░░░   
 
 [![](./profile-3d-contrib/profile-gitblock.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-> ⚙️ **Note:** Enable [3D Contribution](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action to generate this stunning 3D contribution graph!
+> 
 
 </div>
 
