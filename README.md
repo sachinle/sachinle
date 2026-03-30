@@ -310,22 +310,6 @@ Other         █░░░░░░░░░░░░░░░░░░░░   
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SPOTIFY NOW PLAYING                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🎵 Vibing To While Coding
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0f0c29&border_color=7c3aed)](https://open.spotify.com/user/)
-
-> 🎧 Connect your Spotify via [novatorem](https://github.com/novatorem/novatorem) to show live now-playing status!
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       FUN METRICS                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
