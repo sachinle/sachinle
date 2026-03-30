@@ -1,52 +1,370 @@
+<div align="center">
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin%20Immanuel%20Leo%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Code%20Artist&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Sachin Immanuel Leo S</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Crafting+pixel-perfect+interfaces...;💡+Turning+ideas+into+digital+experiences;🎨+Where+design+meets+engineering;⚡+Full+Stack+Developer+in+the+making;🌐+Open+Source+Contributor;🔥+Vue.js+%7C+React+%7C+Three.js+Explorer" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinle&label=Profile%20views&color=0e75b6&style=flat" alt="sachinle" /> </p>
+<br/>
 
-- 🔭 I’m currently working on [MediCare Plus](https://sachinle.github.io/medicareplus/#/)
-
-- 🌱 I’m currently learning **Full Stack Development, Vue.Js and Three.js**
-
-- 🤝 I’m looking for help with [MediCare Plus](https://sachinle.github.io/medicareplus/#/)
-
-- 👨‍💻 All of my projects are available at [https://sachinle.github.io/portfolio/](https://sachinle.github.io/portfolio/)
-
-- 📫 How to reach me **sachinimmanuel2006@gmail.com**
-
-- 📄 Know about my experiences [https://sachinle.github.io/portfolio/](https://sachinle.github.io/portfolio/)
-
-- ⚡ Fun fact **I sometimes get so caught up in pixel-perfect UI design that I forget to blink — and I still love it! 🚀**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sachin-immanuel-leo-s-654244210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-immanuel-leo-s-654244210" height="30" width="40" /></a>
-<a href="https://fb.com/leo.rock.56829/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leo.rock.56829/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sachinimmanuel21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachinimmanuel21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachinimmanuel2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachinimmanuel2006/" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sachinle&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sachinle?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-💼-7c3aed?style=for-the-badge&labelColor=0f0c29" />
 </p>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sachinle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sachinle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sachinle&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachinle&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachinle&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME SECTION                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## 🧬 `whoami`
+
+```typescript
+const sachin = {
+  name: "Sachin Immanuel Leo S",
+  role: "Frontend Developer & UI Craftsman",
+  location: "🇮🇳 Tamil Nadu, India",
+  currentProject: "MediCare Plus 🏥",
+  learning: ["Full Stack Dev", "Vue.js", "Three.js"],
+  passions: ["Pixel-Perfect UI", "Creative Design", "Open Source"],
+  funFact: "Gets so caught up in pixel-perfect UI that forgets to blink 👁️",
+  available: true,
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED ACTIVITY GRAPH                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📈 Activity Graph
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinle&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      SKILLS SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### ⚡ Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c&theme=dark&perline=8" />
+
+### 🎨 Frontend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=vue,react,bootstrap,tailwind,threejs,figma&theme=dark&perline=8" />
+
+### 🗄️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,wordpress&theme=dark&perline=8" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,canva,figma,ps&theme=dark&perline=8" />
+
+</div>
+
+---
+
+<!-- Gradient Badge Tech Stack -->
+## 💎 Full Tech Stack with Expertise
+
+<div align="center">
+
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-gradient?style=for-the-badge&logo=c&logoColor=white&labelColor=0f0c29&color=1a1a5e)
+![HTML5](https://img.shields.io/badge/HTML5-gradient?style=for-the-badge&logo=html5&logoColor=white&labelColor=0f0c29&color=7c3aed)
+![CSS3](https://img.shields.io/badge/CSS3-gradient?style=for-the-badge&logo=css3&logoColor=white&labelColor=0f0c29&color=6d28d9)
+![JavaScript](https://img.shields.io/badge/JavaScript-gradient?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0f0c29&color=5b21b6)
+![TypeScript](https://img.shields.io/badge/TypeScript-gradient?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f0c29&color=4c1d95)
+![Python](https://img.shields.io/badge/Python-gradient?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0f0c29&color=7c3aed)
+![Java](https://img.shields.io/badge/Java-gradient?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0f0c29&color=6d28d9)
+
+<!-- Frontend -->
+![Vue.js](https://img.shields.io/badge/Vue.js-gradient?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=0f0c29&color=5b21b6)
+![React](https://img.shields.io/badge/React-gradient?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f0c29&color=4c1d95)
+![Three.js](https://img.shields.io/badge/Three.js-gradient?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0f0c29&color=7c3aed)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-gradient?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0f0c29&color=6d28d9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-gradient?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0f0c29&color=5b21b6)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-gradient?style=for-the-badge&logo=mongodb&logoColor=4ea94b&labelColor=0f0c29&color=4c1d95)
+![MySQL](https://img.shields.io/badge/MySQL-gradient?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f0c29&color=7c3aed)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gradient?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f0c29&color=6d28d9)
+
+<!-- CMS & Design -->
+![WordPress](https://img.shields.io/badge/WordPress-gradient?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0f0c29&color=5b21b6)
+![Figma](https://img.shields.io/badge/Figma-gradient?style=for-the-badge&logo=figma&logoColor=white&labelColor=0f0c29&color=4c1d95)
+![Adobe](https://img.shields.io/badge/Adobe-gradient?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0f0c29&color=7c3aed)
+![Canva](https://img.shields.io/badge/Canva-gradient?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0f0c29&color=6d28d9)
+![Power BI](https://img.shields.io/badge/PowerBI-gradient?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0f0c29&color=5b21b6)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-gradient?style=for-the-badge&logo=git&logoColor=F05033&labelColor=0f0c29&color=4c1d95)
+![GitHub](https://img.shields.io/badge/GitHub-gradient?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29&color=7c3aed)
+![NPM](https://img.shields.io/badge/NPM-gradient?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=0f0c29&color=6d28d9)
+![VS Code](https://img.shields.io/badge/VSCode-gradient?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0f0c29&color=5b21b6)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=sachinle&theme=tokyonight&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=a0aec0" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sachinle&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinle/sachinle/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachinle/sachinle/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sachinle/sachinle/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> ⚙️ **Note:** To enable the snake animation, add a GitHub Actions workflow in your profile repo. [Guide here →](https://github.com/Platane/snk)
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![MediCare Plus](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=medicareplus&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/medicareplus)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/portfolio)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                TOP CONTRIBUTED REPOSITORIES                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+  <img width="80%" src="https://github-contributor-stats.vercel.app/api?username=sachinle&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0f0c29" />
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CODING PLATFORMS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ⚔️ Coding Battlegrounds
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sachinimmanuel2006?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10)](https://leetcode.com/sachinimmanuel2006/)
+
+</div>
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-@sachinimmanuel21-gradient?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0f0c29&color=7c3aed)](https://www.hackerrank.com/sachinimmanuel21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@sachinimmanuel2006-gradient?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f0c29&color=6d28d9)](https://leetcode.com/sachinimmanuel2006/)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     SKILLS PROGRESS BARS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Proficiency Levels
+
+```
+Frontend Development   ████████████████████░   95% ⭐⭐⭐⭐⭐
+UI/UX Design           ███████████████████░░   88% ⭐⭐⭐⭐⭐
+JavaScript / ES6+      ████████████████████░   92% ⭐⭐⭐⭐⭐
+Vue.js                 ████████████████░░░░░   78% ⭐⭐⭐⭐
+React                  ███████████████░░░░░░   72% ⭐⭐⭐⭐
+Three.js               ████████████░░░░░░░░░   60% ⭐⭐⭐
+Python                 ██████████████░░░░░░░   68% ⭐⭐⭐⭐
+Database Management    ████████████████░░░░░   78% ⭐⭐⭐⭐
+WordPress / CMS        █████████████████░░░░   82% ⭐⭐⭐⭐
+Full Stack (Growing)   ██████████████░░░░░░░   65% ⭐⭐⭐
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    WEEKLY DEV BREAKDOWN                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ⏰ This Week's Dev Breakdown
+
+<!--START_SECTION:waka-->
+> 💡 Enable [WakaTime](https://wakatime.com) to auto-populate live coding stats here!
+
+```text
+Vue.js        ████████████░░░░░░░░░   48%
+JavaScript    ████████░░░░░░░░░░░░░   32%
+CSS           █████░░░░░░░░░░░░░░░░   18%
+HTML          ██░░░░░░░░░░░░░░░░░░░    8%
+Other         █░░░░░░░░░░░░░░░░░░░░    4%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0f0c29)](https://sachinle.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/sachin-immanuel-leo-s-654244210)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:sachinimmanuel2006@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0c29)](https://fb.com/leo.rock.56829/)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    RANDOM DEV QUOTE                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     3D CONTRIBUTION                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌍 3D Contribution Globe
+
+<div align="center">
+
+[![](./profile-3d-contrib/profile-gitblock.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+> ⚙️ **Note:** Enable [3D Contribution](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action to generate this stunning 3D contribution graph!
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    SPOTIFY NOW PLAYING                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🎵 Vibing To While Coding
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0f0c29&border_color=7c3aed)](https://open.spotify.com/user/)
+
+> 🎧 Connect your Spotify via [novatorem](https://github.com/novatorem/novatorem) to show live now-playing status!
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       FUN METRICS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 😂 A Little About Me in Numbers
+
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  designPixelPerfectUI(); // This takes 80% of the time 👁️
+  repeat();
+}
+```
+
+<div align="center">
+
+| 🧠 Thinking About | 🔨 Building | 📖 Learning |
+|:-:|:-:|:-:|
+| Next pixel-perfect UI | MediCare Plus 🏥 | Three.js & WebGL 🌐 |
+| Clean code architecture | Portfolio v2 💼 | Full Stack Dev 🛠️ |
+| Open source contributions | Side projects 🚀 | Vue 3 Composition API ⚡ |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER WAVE                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💜 Thanks for visiting! Drop a ⭐ if you like what you see!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+[![](https://visitcount.itsvg.in/api?id=sachinle&icon=6&color=7)](https://visitcount.itsvg.in)
+
+*Crafted with 💜 & endless cups of ☕ by Sachin Immanuel Leo S*
+
+</div>
