@@ -55,7 +55,7 @@ const sachin = {
 
 ## 📈 Activity Graph
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinle&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sachin's github activity graph](https://github-readme-stats-sachinle.vercel.app/api?username=sachinle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
