@@ -6,10 +6,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin%20Immanuel%20Leo%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Code%20Artist&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Crafting+pixel-perfect+interfaces...;💡+Turning+ideas+into+digital+experiences;🎨+Where+design+meets+engineering;⚡+Full+Stack+Developer+in+the+making;🌐+Open+Source+Contributor;🔥+Vue.js+%7C+React+%7C+Three.js+Explorer" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=Crafting+pixel-perfect+interfaces;Turning+ideas+into+digital+experiences;Where+design+meets+engineering;Full+Stack+Developer+in+the+making;Open+Source+Contributor;Vue.js+%7C+React+%7C+Three.js+Explorer" 
+    alt="Typing Animation"
+  />
+</p>
 
 <br/>
 
