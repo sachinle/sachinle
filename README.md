@@ -128,8 +128,16 @@ const sachin = {
 
 </div>
 
+
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sachinle&theme=radical&no-frame=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</div>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                   CONTRIBUTION SNAKE                           -->
