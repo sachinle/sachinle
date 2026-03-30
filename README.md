@@ -155,8 +155,8 @@ const sachin = {
 
 <div align="center">
 
-[![MediCare Plus](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=medicareplus&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/medicareplus)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/portfolio)
+[![Leo Billing .](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=leo-billing&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/medicareplus)
+[![Fin Tracker](https://github-readme-stats.vercel.app/api/pin/?username=sachinle&repo=Fin-Tracker&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff)](https://github.com/sachinle/portfolio)
 
 </div>
 
