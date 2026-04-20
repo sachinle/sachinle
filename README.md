@@ -232,7 +232,7 @@ Other         █░░░░░░░░░░░░░░░░░░░░   
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0f0c29)](https://sachinle.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0f0c29)](https://www.sachinleo.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/sachin-immanuel-leo-s-654244210)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:sachinimmanuel2006@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0c29)](https://fb.com/leo.rock.56829/)
